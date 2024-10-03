@@ -1,3 +1,4 @@
+//Codigo criado para informar a area do quadrado
 programa {
   funcao inicio() {
     inteiro lado1, lado2
