@@ -1,3 +1,4 @@
+// Codigo criado para informar a hipotenusa do triangulo
 programa {
   funcao inicio() {
      inteiro cateto, hipotenusa, altura, base, raiz
