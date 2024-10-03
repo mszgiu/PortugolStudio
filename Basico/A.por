@@ -1,3 +1,4 @@
+// Codigo criado no portugol para a multiplicar 3 numeros
 programa {
   funcao inicio() {
     inteiro n1, n2, n3
