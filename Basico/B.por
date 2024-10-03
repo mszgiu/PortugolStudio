@@ -1,3 +1,4 @@
+// Codigo criado no portugol para dividir o salario do funcionario pelo o salario minimo e informar quantos salarios minimos o funcionario recebe
 programa {
   funcao inicio() {
 
